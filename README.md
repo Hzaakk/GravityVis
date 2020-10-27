@@ -1,3 +1,3 @@
 Example video:
 
-![gif](spin.gif)
+![gif](highres.mp4)
